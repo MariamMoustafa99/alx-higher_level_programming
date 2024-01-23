@@ -4,6 +4,7 @@
 
 class Square:
     """Defines a square."""
+
     def __init(self, size=0):
         """Constructor.
 
